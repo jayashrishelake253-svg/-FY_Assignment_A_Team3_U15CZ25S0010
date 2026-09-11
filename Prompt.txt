@@ -1,0 +1,7 @@
+Create a Python program for Online Course Enrollment System with following features of Feature Set I:
+1. Student details (student_id, name, email)
+2. Course details (course_id, title, description)
+3. Instructor details (instructor_id, name, expertise)
+4. Enrollment (link student, course, instructor with date)
+5. Enrollment Status (Enrolled, In Progress, Completed)
+Use OOP concepts.
